@@ -8,4 +8,4 @@ This repository contains Python code used for various text analysis experiments.
 - George W. Bush - 2002 to 2008
 </p>
 
-### Experiment One
+### Experiment 1:
