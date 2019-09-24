@@ -32,7 +32,9 @@ The laughter metrics were also generated from the unverified corpuses. The laugh
 ### Experiment 2:
 
 <p align="justify">
-This experiment also used the Python modules matplotlib and pandas. The objective of this experiment was to calculate the number of times a specific topic was mentioned in an individual speech.  The topics included economy, environment, healthcare, immigration, taxes, terrorism and weapons of mass destruction. Most topics had associated keywords, which were manually extracted from the speeches. This extraction method identified bigrams and trigrams that would have been potentially missed using some of natural language processing (NLP) modules that remove stopwords, such as 'of' or 'on.'
+This experiment also used the Python modules matplotlib and pandas. The objective of this experiment was to calculate the number of times a specific topic was mentioned in an individual speech.  The topics included economy, environment, healthcare, immigration, taxes, terrorism and weapons of mass destruction. Most topics had associated keywords, which were manually extracted from the speeches. This extraction method identified bigrams and trigrams that would have been potentially missed using some of natural language processing (NLP) modules that remove stopwords, such as 'of' or 'on.' 
+  
+Below is an example of a topic and its associated keywords:
 
 - Topic: terrorism
 - Keywords: al qaeda, bioterrorism, extremism, extremists, fighting terror, hamas, hezbollah, isis, islamic jihad, jaish-i-mohammed, terrorism, terrorist, terrorists, terror camps, terror states, war against terror, war on terror, weapons of terror
