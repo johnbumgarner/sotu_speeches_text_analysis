@@ -22,7 +22,7 @@ The applause metrics were generated from the unverified corpuses obtained from t
 </p>
 
 <p align="justify">
-The laughter metrics were also generated from the unverified corpuses. The laughter metrics indicate that President Obama's speeches obtained the most laughs. His State of the Union Address in 2010 received 9 laughs, which makes this speech the funniest over the 17 year period. The average laughs per speech was 2.8. Additional analysis is required to determine what topics garnered laughter and if this laughter was bipartisan or partisan in nature. 
+The laughter metrics were also generated from the same unverified corpuses. The laughter metrics indicate that President Obama's speeches obtained the most laughs. His State of the Union Address in 2010 received 9 laughs, which makes this speech the funniest over the 17 year period. The average laughs per speech was 2.8. Additional analysis is required to determine what topics garnered laughter and if this laughter was bipartisan or partisan in nature. 
 </p>
 
 <p align="center"><br>
