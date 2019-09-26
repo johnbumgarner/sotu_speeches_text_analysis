@@ -37,8 +37,7 @@ def number_of_claps(sotu_speeches):
     :param sotu_speeches: a dictionary of sotu speeches filename
     :return: pandas dataframe
     '''
-    col_names_applause =  ['president', 'year', 'claps']
-    df_applause = pd.DataFrame(columns = col_names_applause)
+    df_applause = pd.DataFrame(columns=['president', 'year', 'claps'])
 
     number_of_speeches = len(sotu_speeches)
     if number_of_speeches != 0:
@@ -80,8 +79,7 @@ def number_of_laughs(sotu_speeches):
     :param sotu_speeches: a dictionary of sotu speeches filename
     :return: pandas dataframe
     '''
-    col_names_laughter = ['president', 'year', 'laughs']
-    df_laughter = pd.DataFrame(columns=col_names_laughter)
+    df_laughter = pd.DataFrame(columns=['president', 'year', 'laughs'])
 
     number_of_speeches = len(sotu_speeches)
     if number_of_speeches != 0:
@@ -126,11 +124,13 @@ presidential_laughs = number_of_laughs(sotu_speeches)
 presidential_applause.plot(kind='bar', x='year', y='claps', legend=False)
 plt.title('State of the Union Addresses 2002-2019 \n audience applause', fontweight='demibold')
 plt.ylabel('applause count', fontsize=10, fontweight='demibold')
+plt.tick_params(direction='out', length=5, color='orange')
 plt.show()
 
-# # This code creates a bar chart that shows the number of times that
-# # the audience laughed during a particular State of the Union Address
+# This code creates a bar chart that shows the number of times that
+# the audience laughed during a particular State of the Union Address
 presidential_laughs.plot(kind='bar', x='year', y='laughs', legend=False)
 plt.title('State of the Union Addresses 2002-2019 \n audience laughter', fontweight='demibold')
 plt.ylabel('laughter count', fontsize=10, fontweight='demibold')
+plt.tick_params(direction='out', length=5, color='orange')
 plt.show()
