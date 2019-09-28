@@ -41,6 +41,14 @@ Below is an example of a topic and its associated keywords:
 </p>
 
 <p align="justify">
+Another topic was political parties. The frequency of the keywords, bipartisan, democrat(s), democratic party, republican(s), and republican party were measured for this topic.
+</p>
+
+<p align="center"><br>
+<img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_political_parties_metrics.png">
+</p>
+
+<p align="justify">
 This experiment also looked at the usage of superlatives by a President. A superlative is an exaggerated or hyperbolical expression.  These words can be used to describe an object at the highest (e.g., wealthiest) or lowest limit (e.g., poorest).  Some of the superlative used by Presidents included 'most beautiful', 'bravest', 'hottest', 'safest', 'smartest' and 'toughest.'  
 </p>
 
