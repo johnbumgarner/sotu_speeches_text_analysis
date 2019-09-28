@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import pandas as pd
+import re as regex
 
 def get_sotu_speech(current_speech):
     '''
@@ -22,11 +23,13 @@ def find_ovation_expressions(input_file):
     '''
     readlines = input_file.readlines()
     applause_counter = 0
-    for line in readlines:
-        # speech transcripts contain the word applause to
-        # signify audience applause
-        if 'applause' in line.lower():
-            applause_counter += 1
+    keywords = {'ovation': ['applause']}
+    for key, values in keywords.items():
+      for line in readlines:
+        for item in values:
+          result = regex.findall(fr'\b{item}\b', line.lower())
+          if result:
+            applause_counter += len(result)
     return applause_counter
 
 def number_of_claps(sotu_speeches):
@@ -64,11 +67,13 @@ def find_audible_expressions(input_file):
     '''
     readlines = input_file.readlines()
     laughter_counter = 0
-    for line in readlines:
-        # speech transcripts contain the word laughter to
-        # signify audience laughter
-        if 'laughter' in line.lower():
-            laughter_counter += 1
+    keywords = {'audible': ['laughter']}
+    for key, values in keywords.items():
+      for line in readlines:
+        for item in values:
+          result = regex.findall(fr'\b{item}\b', line.lower())
+          if result:
+            laughter_counter += len(result)
     return laughter_counter
 
 def number_of_laughs(sotu_speeches):
@@ -115,7 +120,6 @@ sotu_speeches = {'2019':('Trump','trump_sotu_2019.txt'),
                  '2003':('Bush', 'georgewbush_sotu_2003.txt'),
                  '2002':('Bush', 'georgewbush_sotu_2002.txt')}
 
-
 presidential_applause = number_of_claps(sotu_speeches)
 presidential_laughs = number_of_laughs(sotu_speeches)
 
@@ -127,8 +131,8 @@ plt.ylabel('applause count', fontsize=10, fontweight='demibold')
 plt.tick_params(direction='out', length=5, color='orange')
 plt.show()
 
-# This code creates a bar chart that shows the number of times that
-# the audience laughed during a particular State of the Union Address
+# # This code creates a bar chart that shows the number of times that
+# # the audience laughed during a particular State of the Union Address
 presidential_laughs.plot(kind='bar', x='year', y='laughs', legend=False)
 plt.title('State of the Union Addresses 2002-2019 \n audience laughter', fontweight='demibold')
 plt.ylabel('laughter count', fontsize=10, fontweight='demibold')
