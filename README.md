@@ -41,7 +41,7 @@ Below is an example of a topic and its associated keywords:
 </p>
 
 <p align="justify">
-Another topic was political parties. The frequency of the keywords, bipartisan, democrat(s), democratic party, republican(s), and republican party were measured for this topic.
+Another topic was political parties. The frequency of the keywords, bipartisan, democrat(s), democratic party, republican(s), and republican party were measured for this topic.  President Obama a democrat mentioned the republican party more frequently in his speeches than the republican Presidents Bush and Trump.  President Obama also used all the keywords more frequently in his speeches.  President Bush used the keywords the least in his speeches.
 </p>
 
 <p align="center"><br>
@@ -49,7 +49,7 @@ Another topic was political parties. The frequency of the keywords, bipartisan, 
 </p>
 
 <p align="justify">
-This experiment also looked at the usage of superlatives by a President. A superlative is an exaggerated or hyperbolical expression.  These words can be used to describe an object at the highest (e.g., wealthiest) or lowest limit (e.g., poorest).  Some of the superlative used by Presidents included 'most beautiful', 'bravest', 'hottest', 'safest', 'smartest' and 'toughest.'  
+This experiment also looked at the usage of superlatives by a President. A superlative is an exaggerated or hyperbolical expression.  These words can be used to describe an object at the highest (e.g., wealthiest) or lowest limit (e.g., poorest).  Some of the superlative used by Presidents included most beautiful, bravest, hottest, safest, smartest and toughest.  
 </p>
 
 <p align="center"><br>
