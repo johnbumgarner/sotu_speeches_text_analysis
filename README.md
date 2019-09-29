@@ -49,10 +49,11 @@ Another topic was political parties. The frequency of the keywords, bipartisan, 
 </p>
 
 <p align="justify">
-This experiment also looked at the usage of superlatives by a President. A superlative is an exaggerated or hyperbolical expression.  These words can be used to describe an object at the highest (e.g., wealthiest) or lowest limit (e.g., poorest).  Some of the superlative used by Presidents included most beautiful, bravest, hottest, safest, smartest and toughest.  
- <p align="center"><br>
-<img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_superlative_metrics.png">
+This experiment also looked at the usage of superlatives by a President. A superlative is an exaggerated or hyperbolical expression.  These words can be used to describe an object at the highest (e.g., wealthiest) or lowest limit (e.g., poorest).  Some of the superlative used by Presidents included most beautiful, bravest, hottest, safest, smartest and toughest.  President Trump used the highest number of superlatives in his 2019 address.  President Bush used the least number of superlatives in his speeches.  
 </p>
+
+<p align="center"><br>
+<img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_superlative_metrics.png">
 </p>
 
 
