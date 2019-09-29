@@ -41,6 +41,14 @@ Below is an example of a topic and its associated keywords:
 </p>
 
 <p align="justify">
+Since September 11, 2001, terrorism has been mentioned in every State of the Union Address by 3 different administrations. Of course President Bush spoke about terrorism the most in his speeches, because he was the president immediately following al-Qaeda's attack on America.
+</p> 
+
+<p align="center"><br>
+<img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_terrorism_metrics.png">
+</p>
+
+<p align="justify">
 Another topic was political parties. The frequency of the keywords, bipartisan, democrat(s), democratic party, republican(s), and republican party were measured for this topic.  President Obama a democrat mentioned the republican party more frequently in his speeches than the republican Presidents Bush and Trump.  President Obama also used all the keywords more frequently in his speeches.  President Bush used the keywords the least in his speeches.
 </p>
 
