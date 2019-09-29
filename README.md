@@ -41,11 +41,19 @@ Below is an example of a topic and its associated keywords:
 </p>
 
 <p align="justify">
-Since September 11, 2001, terrorism has been mentioned in every State of the Union Address by 3 different administrations. Of course President Bush spoke about terrorism the most in his speeches, because he was the president immediately following al-Qaeda's attack on America.
+Since September 11, 2001, terrorism has been mentioned in every State of the Union Address by 3 different administrations. Of course President Bush spoke about terrorism the most in his speeches, because he was the president immediately following al-Qaeda's attacks on America.  
 </p> 
 
 <p align="center"><br>
 <img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_terrorism_metrics.png">
+</p>
+
+<p align="justify">
+Weapons of Mass destruction (WMD) were mentioned in 16 of the 17 State of the Union Addresses analyzed. In President Bush's 2003 speech he referenced WMD 29 times and terrorism 28 times. It is worth noting that this speech was used by President Bush to declare his intentions to launch military operations on Iraq for the purpose of locating WMDs allegedly hidden by Saddam Hussein.  Bush's 2003 State of the Union was on Jan 28, 2003 and the invasion of Iraq commenced on March 19, 2003.
+</p> 
+
+<p align="center"><br>
+<img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_wmd_metrics.png">
 </p>
 
 <p align="justify">
