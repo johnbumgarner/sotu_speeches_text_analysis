@@ -49,7 +49,8 @@ Another topic was political parties. The frequency of the keywords, bipartisan, 
 </p>
 
 <p align="justify">
-  
+Religion references were also analyzed in the State of Union Addresses corpuses used in this experiment. The keywords measured were:
+bible, christian, church, god, holiness, holy land, islam, jerusalem, and judaism. President Bush and President Trump, both republicans used religious references more frequently than President Obama, a democratic president. 
 </p>
   
 <p align="center"><br>
