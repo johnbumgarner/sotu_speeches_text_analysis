@@ -57,6 +57,21 @@ Weapons of Mass destruction (WMD) were mentioned in 16 of the 17 State of the Un
 </p>
 
 <p align="justify">
+</p>
+
+
+<p align="center"><br>
+<img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_healthcare_metrics.png">
+</p>
+
+<p align="justify">
+</p>
+
+<p align="center"><br>
+<img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_environmental_metrics.png">
+</p>
+
+<p align="justify">
 Another topic was political parties. The frequency of the keywords, bipartisan, democrat(s), democratic party, republican(s), and republican party were measured for this topic.  President Obama a democrat mentioned the republican party more frequently in his speeches than the republican Presidents Bush and Trump.  President Obama also used all the keywords more frequently in his speeches.  President Bush used the keywords the least in his speeches.
 </p>
 
@@ -81,5 +96,8 @@ This experiment also looked at the usage of superlatives by a President. A super
 <img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_superlative_metrics.png">
 </p>
 
+### Notes:
+
+_The code within this repository is **not** production ready. It was **strictly** designed for experimental testing purposes only._
 
 
