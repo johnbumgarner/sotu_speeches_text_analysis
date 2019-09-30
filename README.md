@@ -8,6 +8,10 @@ This repository contains Python code used for various text analysis experiments.
 - George W. Bush - 2002 to 2008
 </p>
 
+<p align="justify">
+These corpuses were obtained from 3 primary sources. These were the White House website and the offical websites for President Bush and President Obama. None of these corpuses were cross-referenced with their corresponding videos.  Additionally, the only text cleaning performed was related to meta data, such as "White House photographer <name> took this photo."
+</p>
+
 ### Experiment 1:
 
 <p align="justify">
