@@ -82,30 +82,8 @@ He also talked about diversify America's energy supply in his 2008 speech.  Pres
 </p>
 
 <p align="justify">
-President Obama spoke about climate change in all of his State of the Union addresses.  His 2013 speech mentioned environmental issues 18 times, which was the highest number of references spanning 3 Presidential administrations and 17 State of the Union addresses.  President Obama's 2013 address came on the heels of the [2012 United Nations Climate Change Conference](https://unfccc.int/process-and-meetings/conferences/past-conferences/doha-climate-change-conference-november-2012/doha-climate-change-conference-november-2012 "UN Climate Change Conference")
+President Obama spoke about climate change in all of his State of the Union addresses.  His 2013 speech mentioned environmental issues 18 times, which was the highest number of references spanning 3 Presidential administrations and 17 State of the Union addresses.  President Obama's 2013 address came on the heels of the 2012 United Nations Climate Change Conference. His 2010 speech contained the second highest mention and it also came on the 2010 United Nations Climate Change Conference. Additional research would be required to determine if these Climate Change Conferences influenced President Obama's addresses for the years specified. He mentioned environmental issues 80 times across 7 speeches.
 </p>
-
-
-
-
-   president  year environment
-0      Trump  2019           0
-1      Trump  2018           2
-2      Trump  2017           1
-3      Obama  2016           9
-4      Obama  2015          11
-5      Obama  2014           8
-6      Obama  2013          18
-7      Obama  2012          10
-8      Obama  2011           8
-9      Obama  2010          15
-10      Bush  2008           7
-11      Bush  2007           8
-12      Bush  2006           1
-13      Bush  2005           0
-14      Bush  2004           0
-15      Bush  2003           0
-16      Bush  2002           0
 
 <p align="center"><br>
 <img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_environmental_metrics.png">
