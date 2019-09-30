@@ -59,49 +59,15 @@ Weapons of Mass destruction (WMD) were mentioned in 16 of the 17 State of the Un
 <p align="justify">
 Healthcare issues in America was a talking point in every State of the Union address within the corpus, which covers 17 years. Some of the keywords measured included affordable care act, cancer research, generic drugs, health insurance, high drug prices, Medicaid, Medicare and terminal illnesses. On average President Bush mentioned healthcare issues 12.6 times in his 7 State of the Union addresses. 
 President Obama's average was 10 for 7 speeches and over 3 addresses President Trump has averaged almost 10. 
-
-President Bush mentioned healthcare issues 88 times over 7 speeches. President Bush's 2004 address mentioned healthcare 23 times, which is highest number of mentions in a 17 year period.  His 2007 State of the Union address mentioned healthcare 21 times, which is the second highest for the same period.
-
-President Bush mentioned healthcare issues 70 times over 7 speeches.
-
-
-
-President Obama spoke about healthcare issues the most in his 2010 address. This is same year the Patient Protection and Affordable Care Act (aka Affordable Care Act or Obamacare) was passed on March 23, 2010.  
-
-  
 </p>
 
+<p align="justify">
+President Bush mentioned healthcare issues 88 times over 7 speeches. President Bush's 2004 address mentioned healthcare 23 times, which is highest number of mentions in a 17 year period.  His 2007 State of the Union address mentioned healthcare 21 times, which is the second highest for the same period.
+</p>
 
-   president  year healthcare
-0      Trump  2019          5
-1      Trump  2018         11
-2      Trump  2017         13
-
-7 + 8 + 12 + 12 + 7 + 9 + 15 = 70
-10 
-
-3      Obama  2016          7
-4      Obama  2015          8
-5      Obama  2014         12
-6      Obama  2013         12
-7      Obama  2012          7
-8      Obama  2011          9
-9      Obama  2010         15
-
-10      Bush  2008          8
-11      Bush  2007         21
-12      Bush  2006          9
-13      Bush  2005          7
-14      Bush  2004         23
-15      Bush  2003         15
-16      Bush  2002          5
-
- 8 + 21 + 9 + 7 + 23 + 15 + 5 = 88
- 
- 12.6 tims
- 
- 
-
+<p align="justify">
+President Obama mentioned healthcare issues 70 times in 7 speeches. His 2010 address mentioned healthcare issues 15 times, which was the highest for all his State of the Union addresses. The Patient Protection and Affordable Care Act was passed on March 23, 2010. Most Americans known this Act as either the Affordable Care Act or Obamacare.   
+</p>
 
 <p align="center"><br>
 <img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_healthcare_metrics.png">
