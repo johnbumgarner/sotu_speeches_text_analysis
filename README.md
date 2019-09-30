@@ -74,7 +74,37 @@ President Obama mentioned healthcare issues 70 times in 7 speeches. His 2010 add
 </p>
 
 <p align="justify">
+Global environmental issues have been a major topic for many years. One of the main environmental buzzword is climate change.  Some of the other environmental terms include clean water, energy efficient, fossil fuels, hybrid vehicles, ocean temperatures and wind energy. </p>
+
+<p align="justify">
+President Bush's 2007 State of the Union address mentioned that new technologies would be needed to diversify America's energy supply. The context around this section of his speech was related to high gas prices and America's reliance on foreign oil from the Middle East. 
+He also talked about diversify America's energy supply in his 2008 speech.  President Bush briefly touched on climate change in both speeches, but again the references were linked to diversify America's energy supply for national security reasons and not the health of the world.
 </p>
+
+<p align="justify">
+President Obama spoke 
+</p>
+
+
+
+   president  year environment
+0      Trump  2019           0
+1      Trump  2018           2
+2      Trump  2017           1
+3      Obama  2016           9
+4      Obama  2015          11
+5      Obama  2014           8
+6      Obama  2013          18
+7      Obama  2012          10
+8      Obama  2011           8
+9      Obama  2010          15
+10      Bush  2008           7
+11      Bush  2007           8
+12      Bush  2006           1
+13      Bush  2005           0
+14      Bush  2004           0
+15      Bush  2003           0
+16      Bush  2002           0
 
 <p align="center"><br>
 <img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_environmental_metrics.png">
