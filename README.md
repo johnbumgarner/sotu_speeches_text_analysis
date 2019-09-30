@@ -82,10 +82,13 @@ He also talked about diversify America's energy supply in his 2008 speech.  Pres
 </p>
 
 <p align="justify">
-President Obama spoke 
+President Obama spoke about climate change in all of his State of the Union addresses.  His 2013 speech mentioned environmental issues 18 times, which was the highest number of references spanning 3 Presidential administrations and 17 State of the Union addresses.  President Obama's 2013 address came on the heels of the 2012 United Nations Climate Change Conference.  
+  
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 </p>
 
 
+9 
 
    president  year environment
 0      Trump  2019           0
