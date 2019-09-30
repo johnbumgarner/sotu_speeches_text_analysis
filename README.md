@@ -9,7 +9,7 @@ This repository contains Python code used for various text analysis experiments.
 </p>
 
 <p align="justify">
-These corpuses were obtained from 3 primary sources. These were the White House website and the offical websites for President Bush and President Obama. None of these corpuses were cross-referenced with their corresponding videos.  Additionally, the only text cleaning performed was related to meta data, such as "White House photographer <name> took this photo."
+These corpuses were obtained from 3 primary sources. These were the White House website and the offical websites for President Bush and President Obama. None of these corpuses were cross-referenced with their corresponding videos.  Additionally, the only text cleaning performed was related to removing specific meta data, such as "White House photographer <name> took this photo."
 </p>
 
 ### Experiment 1:
@@ -121,5 +121,3 @@ This experiment also looked at the usage of superlatives by a President. A super
 ### Notes:
 
 _The code within this repository is **not** production ready. It was **strictly** designed for experimental testing purposes only._
-
-
