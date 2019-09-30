@@ -57,7 +57,7 @@ Weapons of Mass destruction (WMD) were mentioned in 16 of the 17 State of the Un
 </p>
 
 <p align="justify">
-Healthcare issues in America was a talking point in every State of the Union address within the corpus, which covers 17 years. Some of the keywords measured included _affordable care act, cancer research, generic drugs, health insurance, high drug prices, Medicaid, Medicare and terminal illnesses_.  
+Healthcare issues in America was a talking point in every State of the Union address within the corpus, which covers 17 years. Some of the keywords measured included _affordable care act_, cancer research, generic drugs, health insurance, high drug prices, Medicaid, Medicare and terminal illnesses_.  
   
   The Patient Protection and Affordable Care Act, often shortened to the Affordable Care Act or nicknamed Obamacare
 President Barack Obama on March 23, 2010
