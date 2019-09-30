@@ -1,7 +1,7 @@
 # Overview
 
 <p align="justify">
-This repository contains Python code used for various text analysis experiments. The corpuses used for these experiments were the State of the Union Addresses for the Presidential periods below: 
+This repository contains Python code used for various text analysis experiments. The corpuses used for these experiments were the State of the Union addresses for the Presidential periods below: 
   
 - Donald Trump - 2017 to 2019
 - Barack Obama - 2010 to 2016
@@ -11,18 +11,18 @@ This repository contains Python code used for various text analysis experiments.
 ### Experiment 1:
 
 <p align="justify">
-This experiment used the Python modules matplotlib and pandas.  The objective of this experiment was to calculate the number of times the audience either clapped or laughed during a particular State of the Union Address. The corpuses used contained meta data, which indicates what parts of the speech gathered applause or laugher.  The metrics generated are only as reliable as the data being processed. The applause and laugher keywords were manually added to the speech text by an unknown entity.  This experiment did not validate these keywords, which could have been accomplished by watching the 17 State of Union Addresses.  Additionally, these metrics cannot determine if the audience applauded for 10 seconds or 60 seconds. 
+This experiment used the Python modules matplotlib and pandas.  The objective of this experiment was to calculate the number of times the audience either clapped or laughed during a particular State of the Union address. The corpuses used contained meta data, which indicates what parts of the speech gathered applause or laugher.  The metrics generated are only as reliable as the data being processed. The applause and laugher keywords were manually added to the speech text by an unknown entity.  This experiment did not validate these keywords, which could have been accomplished by watching the 17 State of Union Addresses.  Additionally, these metrics cannot determine if the audience applauded for 10 seconds or 60 seconds. 
 </p>
 
 <p align="justify">
-The applause metrics were generated from the unverified corpuses obtained from the multiple websites, including the White House. The applause metrics indicate that President Trump's State of the Union Addresses for 2019 and 2018 received the highest levels of applause over a 17 year period. The average applause number per speech for the same 17 year period was 55.  Additional analysis is required to determine what topics garnered applause and if this applause was bipartisan or partisan in nature. 
+The applause metrics were generated from the unverified corpuses obtained from the multiple websites, including the White House. The applause metrics indicate that President Trump's State of the Union addresses for 2019 and 2018 received the highest levels of applause over a 17 year period. The average applause number per speech for the same 17 year period was 55.  Additional analysis is required to determine what topics garnered applause and if this applause was bipartisan or partisan in nature. 
 </p>
 <p align="center"><br>
 <img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_applause_metrics.png">
 </p>
 
 <p align="justify">
-The laughter metrics were also generated from the same unverified corpuses. The laughter metrics indicate that President Obama's speeches obtained the most laughs. His State of the Union Address in 2010 received 9 laughs, which makes this speech the funniest over the 17 year period. The average laughs per speech was 2.8. Additional analysis is required to determine what topics garnered laughter and if this laughter was bipartisan or partisan in nature. 
+The laughter metrics were also generated from the same unverified corpuses. The laughter metrics indicate that President Obama's speeches obtained the most laughs. His State of the Union address in 2010 received 9 laughs, which makes this speech the funniest over the 17 year period. The average laughs per speech was 2.8. Additional analysis is required to determine what topics garnered laughter and if this laughter was bipartisan or partisan in nature. 
 </p>
 
 <p align="center"><br>
@@ -32,7 +32,7 @@ The laughter metrics were also generated from the same unverified corpuses. The 
 ### Experiment 2:
 
 <p align="justify">
-This experiment also used the Python modules matplotlib and pandas. The objective of this experiment was to calculate the number of times a specific topic was mentioned in an individual speech.  The topics included economy, environment, healthcare, immigration, taxes, terrorism and weapons of mass destruction. Most topics had associated keywords, which were manually extracted from the speeches. This extraction method identified bigrams and trigrams that would have been potentially missed using some of natural language processing (NLP) modules that remove stopwords, such as 'of' or 'on.' 
+This experiment also used the Python modules matplotlib and pandas. The objective of this experiment was to calculate the number of times a specific topic was mentioned in an individual speech.  The topics included economy, environment, healthcare, immigration, taxes, terrorism and weapons of mass destruction. Most topics had associated keywords, which were manually extracted from the speeches. This extraction method identified bigrams and trigrams that would have been potentially missed using some of the natural language processing (NLP) modules that commonly remove stopwords, such as 'of' or 'on.' 
   
 Below is an example of a topic and its associated keywords:
 
@@ -41,7 +41,7 @@ Below is an example of a topic and its associated keywords:
 </p>
 
 <p align="justify">
-Since September 11, 2001, terrorism has been mentioned in every State of the Union Address by 3 different administrations. Of course President Bush spoke about terrorism the most in his speeches, because he was the president immediately following al-Qaeda's attacks on America.  
+Since September 11, 2001, terrorism has been mentioned in every State of the Union address by 3 different administrations. Of course President Bush spoke about terrorism the most in his speeches, because he was the president immediately following al-Qaeda's attacks on America.  
 </p> 
 
 <p align="center"><br>
@@ -49,7 +49,7 @@ Since September 11, 2001, terrorism has been mentioned in every State of the Uni
 </p>
 
 <p align="justify">
-Weapons of Mass destruction (WMD) were mentioned in 16 of the 17 State of the Union Addresses analyzed. In President Bush's 2003 speech he referenced WMD 29 times and terrorism 28 times. It is worth noting that this speech was used by President Bush to declare his intentions to launch military operations on Iraq for the purpose of locating WMDs allegedly hidden by Saddam Hussein.  Bush's 2003 State of the Union was on Jan 28, 2003 and the invasion of Iraq commenced on March 19, 2003.
+Weapons of Mass destruction (WMD) were mentioned in 16 of the 17 State of the Union addresses analyzed. In President Bush's 2003 speech he referenced WMD 29 times and terrorism 28 times. It is worth noting that this speech was used by President Bush to declare his intentions to launch military operations on Iraq for the purpose of locating WMDs allegedly hidden by Saddam Hussein.  Bush's 2003 State of the Union was on Jan 28, 2003 and the invasion of Iraq commenced on March 19, 2003.
 </p> 
 
 <p align="center"><br>
@@ -57,7 +57,32 @@ Weapons of Mass destruction (WMD) were mentioned in 16 of the 17 State of the Un
 </p>
 
 <p align="justify">
+Healthcare issues in America was a talking point in every State of the Union address within the corpus, which covers 17 years. Some of the keywords measured included _affordable care act, cancer research, generic drugs, health insurance, high drug prices, Medicaid, Medicare and terminal illnesses_.  
+  
+  The Patient Protection and Affordable Care Act, often shortened to the Affordable Care Act or nicknamed Obamacare
+President Barack Obama on March 23, 2010
+
 </p>
+
+
+   president  year healthcare
+0      Trump  2019          5
+1      Trump  2018         11
+2      Trump  2017         13
+3      Obama  2016          7
+4      Obama  2015          8
+5      Obama  2014         12
+6      Obama  2013         12
+7      Obama  2012          7
+8      Obama  2011          9
+9      Obama  2010         15
+10      Bush  2008          8
+11      Bush  2007         21
+12      Bush  2006          9
+13      Bush  2005          7
+14      Bush  2004         23
+15      Bush  2003         15
+16      Bush  2002          5
 
 
 <p align="center"><br>
