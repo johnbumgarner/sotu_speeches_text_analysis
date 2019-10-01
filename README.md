@@ -4,7 +4,7 @@
 This repository contains Python code used for various text analysis experiments. The corpuses used for these experiments were the State of the Union addresses for the Presidential periods below: 
   
 - Donald Trump - 2017 to 2019
-- Barack Obama - 2010 to 2016
+- Barack Obama - 2009 to 2016 (no speech given in 2009)
 - George W. Bush - 2002 to 2008
 </p>
 
@@ -19,8 +19,11 @@ This experiment used the Python modules matplotlib and pandas.  The objective of
 </p>
 
 <p align="justify">
-The applause metrics were generated from the unverified corpuses obtained from the multiple websites, including the White House. The applause metrics indicate that President Trump's State of the Union addresses for 2019 and 2018 received the highest levels of applause over a 17 year period. The average applause number per speech for the same 17 year period was 55.  Additional analysis is required to determine what topics garnered applause and if this applause was bipartisan or partisan in nature. 
+The applause metrics were generated from the unverified corpuses obtained from the multiple websites, including the White House. The average applause number per speech was 55. President Trump's State of the Union addresses for 2019 and 2018 received the highest levels of applause for speeches in the corpus that was analyzed.
+  
+Additional analysis is required to determine what topics garnered applause from the audience and if the applause was bipartisan or partisan in nature. 
 </p>
+
 <p align="center"><br>
 <img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_applause_metrics.png">
 </p>
