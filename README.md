@@ -3,23 +3,29 @@
 <p align="justify">
 This repository contains Python code used for various text analysis experiments. The corpuses used for these experiments were the State of the Union addresses given in the years shown below: 
   
-- Donald Trump   - 2017 to 2019
-- Barack Obama   - 2010 to 2016
+- Donald Trump - 2017 to 2019
+- Barack Obama - 2010 to 2016
 - George W. Bush - 2002 to 2008
 </p>
 
 <p align="justify">
-These corpuses were obtained from 3 primary sources. These were the White House website and the offical websites for President Bush and President Obama. None of these corpuses were cross-referenced with their corresponding videos.  Additionally, the only text cleaning performed was related to removing specific meta data, such as "White House photographer <name> took this photo."
+These corpuses were obtained from 3 primary sources. The White House website and President Bush's and President Obama's offical websites. None of these corpuses were cross-referenced with their corresponding videos.  Additionally, the only text cleaning performed was related to removing specific meta data, such as "White House photographer <name> took this photo."
 </p>
 
 ### Experiment 1:
 
 <p align="justify">
-This experiment used the Python modules matplotlib and pandas.  The objective of this experiment was to calculate the number of times the audience either clapped or laughed during a particular State of the Union address. The corpuses used contained meta data, which indicates what parts of the speech gathered applause or laugher.  The metrics generated are only as reliable as the data being processed. The applause and laugher keywords were manually added to the speech text by an unknown entity.  This experiment did not validate these keywords, which could have been accomplished by watching the 17 State of Union Addresses.  Additionally, these metrics cannot determine if the audience applauded for 10 seconds or 60 seconds. 
+This experiment used the Python modules matplotlib and pandas.  The objective of this experiment was to calculate the number of times the audience either clapped or laughed during a particular State of the Union address. The corpuses used contained meta data, which indicates what parts of the speech gathered applause or laugher.  The metrics generated are only as reliable as the data being processed, because the applause and laugher keywords were manually added to the speech text by an unknown entity. This experiment did not validate these keywords, which could have been accomplished by watching the videos associated with the State of Union Addresses within the corpus.   
 </p>
 
 <p align="justify">
-The applause metrics were generated from the unverified corpuses obtained from the multiple websites, including the White House. The average applause number per speech was 55. President Trump's State of the Union addresses for 2019 and 2018 received the highest levels of applause for speeches in the corpus that was analyzed.
+Additionally, the keyword-based metrics cannot determine if the audience applauded for 10 seconds or 60 seconds. For example, in President Trump's 2017 State of the Union address, the widow of Navy special operator Senior Chief William Ryan Owens, who was slain in a January 2017 raid in Yemen received a bipartisan standing ovation that lasted for one minute and 36 seconds.
+</p>
+
+<p align="justify">
+The average audiance applause metric across all the State of the Union address in the corpus was 55. The highest number of applauses for the speeches in the corpus were associated with President Trump's State of the Union addresses for 2019 and 2018.  
+
+
   
 Additional analysis is required to determine what topics garnered applause from the audience and if the applause was bipartisan or partisan in nature. 
 </p>
