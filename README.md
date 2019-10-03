@@ -114,6 +114,10 @@ PLACE HOLDER FOR TEXT
 </p>
 
 <p align="center"><br>
+<img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_immigration_metrics.png">
+</p>
+
+<p align="center"><br>
 <img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_border_security_immigration_metrics.png">
 </p>
 
