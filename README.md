@@ -15,7 +15,7 @@ These corpuses were obtained from 3 primary sources. The White House website and
 ### Experiment 1:
 
 <p align="justify">
-This experiment used the Python modules matplotlib and pandas.  The objective of this experiment was to calculate the number of times the audience either clapped or laughed during a particular State of the Union address. The corpuses used contained meta data, which indicates what parts of the speech gathered applause or laugher.  The metrics generated are only as reliable as the data being processed, because the applause and laugher keywords were manually added to the speech text by an unknown entity. This experiment did not validate these keywords, which could have been accomplished by watching the videos associated with the State of Union Addresses within the corpus.   
+This experiment used the Python modules matplotlib and pandas. The objective of this experiment was to calculate the number of times the audience either clapped or laughed during a particular State of the Union address. The corpus used contained meta data, which indicates what parts of the speech gathered applause or laugher. The metrics generated are only as reliable as the data being processed, because the applause and laugher keywords were manually added to the speech text by an unknown entity. This experiment did not validate these keywords, which could have been accomplished by watching the videos associated with each of the State of Union addresses within the corpus.
 </p>
 
 <p align="justify">
@@ -23,10 +23,10 @@ Additionally, the keyword-based metrics cannot determine if the audience applaud
 </p>
 
 <p align="justify">
-The average audiance applause metric across all the State of the Union address in the corpus was 55. The highest number of applauses for the speeches in the corpus were associated with President Trump's State of the Union addresses for 2019 and 2018.  
+The average audiance applause metric across all the State of the Union addresses in the corpus was 55 per speech. The highest number of applauses for the speeches in the corpus were associated with President Trump's State of the Union address for 2018. This speech garnered 117 applauses. President Obama's 2010 State of the Union address received 116 applauses.
+</p>
 
-
-  
+<p align="justify">
 Additional analysis is required to determine what topics garnered applause from the audience and if the applause was bipartisan or partisan in nature. 
 </p>
 
@@ -35,7 +35,11 @@ Additional analysis is required to determine what topics garnered applause from 
 </p>
 
 <p align="justify">
-The laughter metrics were also generated from the same unverified corpuses. The laughter metrics indicate that President Obama's speeches obtained the most laughs. His State of the Union address in 2010 received 9 laughs, which makes this speech the funniest over the 17 year period. The average laughs per speech was 2.8. Additional analysis is required to determine what topics garnered laughter and if this laughter was bipartisan or partisan in nature. 
+The laughter metrics were also generated from the same unverified corpus. The average audiance laughter metric across all the State of the Union addresses in the corpus was 2.8 per speech. The highest number of laughs for the speeches in the corpus were associated with President Obama's State of the Union address for 2010. This speech garnered 11 laughs. The laughter metrics indicate that President Obama's speeches received 37 laughs accross his 7 speeches.  President Bush only received 8 laughs for the same number of speeches. And President Trump received 10 laughs in only 3 speeches.
+</p>
+
+<p align="justify">
+Additional analysis is required to determine what topics garnered laughter and if this laughter was bipartisan or partisan in nature. 
 </p>
 
 <p align="center"><br>
@@ -54,7 +58,7 @@ Below is an example of a topic and its associated keywords:
 </p>
 
 <p align="justify">
-Since September 11, 2001, terrorism has been mentioned in every State of the Union address by 3 different administrations. Of course President Bush spoke about terrorism the most in his speeches, because he was the president immediately following al-Qaeda's attacks on America.  
+Since September 11, 2001, terrorism has been mentioned in every State of the Union address across 3 different administrations. Of course President Bush spoke about terrorism the greatest number of times in his speeches, because he was the president immediately following al-Qaeda's attacks on America.  
 </p> 
 
 <p align="center"><br>
@@ -62,7 +66,7 @@ Since September 11, 2001, terrorism has been mentioned in every State of the Uni
 </p>
 
 <p align="justify">
-Weapons of Mass destruction (WMD) were mentioned in 16 of the 17 State of the Union addresses analyzed. In President Bush's 2003 speech he referenced WMD 29 times and terrorism 28 times. It is worth noting that this speech was used by President Bush to declare his intentions to launch military operations on Iraq for the purpose of locating WMDs allegedly hidden by Saddam Hussein.  Bush's 2003 State of the Union was on Jan 28, 2003 and the invasion of Iraq commenced on March 19, 2003.
+Weapons of Mass destruction (WMD) were mentioned in 16 of the 17 State of the Union addresses analyzed. In President Bush's 2003 speech he referenced WMD 29 times and terrorism 28 times. It is worth noting that this speech was used by President Bush to declare his intentions to launch offensive military operations on Iraq for the express purpose of locating the WMDs allegedly being hidden by Saddam Hussein.  Bush's 2003 State of the Union was on Jan 28, 2003 and the invasion of Iraq commenced on March 19, 2003.
 </p> 
 
 <p align="center"><br>
@@ -70,16 +74,19 @@ Weapons of Mass destruction (WMD) were mentioned in 16 of the 17 State of the Un
 </p>
 
 <p align="justify">
-Healthcare issues in America was a talking point in every State of the Union address within the corpus, which covers 17 years. Some of the keywords measured included affordable care act, cancer research, generic drugs, health insurance, high drug prices, Medicaid, Medicare and terminal illnesses. On average President Bush mentioned healthcare issues 12.6 times in his 7 State of the Union addresses. 
-President Obama's average was 10 for 7 speeches and over 3 addresses President Trump has averaged almost 10. 
+Healthcare issues in America was a talking point in every State of the Union address within the corpus, which covers 17 years and 3 different administrations.  Some of the keywords measured included affordable care act, cancer research, generic drugs, health insurance, high drug prices, Medicaid, Medicare and terminal illnesses. 
 </p>
 
 <p align="justify">
-President Bush mentioned healthcare issues 88 times over 7 speeches. President Bush's 2004 address mentioned healthcare 23 times, which is highest number of mentions in a 17 year period.  His 2007 State of the Union address mentioned healthcare 21 times, which is the second highest for the same period.
+On average President Bush mentioned healthcare issues 12.6 times in his 7 State of the Union addresses. President Obama's average was 10 mentions in his 7 addresses and President Trump's average is almost 10 times per his 3 speeches within the corpus. 
 </p>
 
 <p align="justify">
-President Obama mentioned healthcare issues 70 times in 7 speeches. His 2010 address mentioned healthcare issues 15 times, which was the highest for all his State of the Union addresses. The Patient Protection and Affordable Care Act was passed on March 23, 2010. Most Americans known this Act as either the Affordable Care Act or Obamacare.   
+President Bush mentioned healthcare issues 88 times over 7 speeches. President Bush's 2004 address mentioned healthcare 23 times, which is the highest number of mentions in a 17 year period. His 2007 State of the Union address mentioned healthcare 21 times, which is the second highest for the same period.
+</p>
+
+<p align="justify">
+President Obama mentioned healthcare issues 70 times in his 7 speeches. His January 2010 address mentioned healthcare issues 15 times, which was the highest number of mentions across all of his State of the Union addresses. It is worth noting that Congress passed the Patient Protection and Affordable Care Act on March 23, 2010. Most Americans known this Act as either the Affordable Care Act or Obamacare.  
 </p>
 
 <p align="center"><br>
@@ -87,15 +94,15 @@ President Obama mentioned healthcare issues 70 times in 7 speeches. His 2010 add
 </p>
 
 <p align="justify">
-Global environmental issues have been a major topic for many years. One of the main environmental buzzword is climate change.  Some of the other environmental terms include clean water, energy efficient, fossil fuels, hybrid vehicles, ocean temperatures and wind energy. </p>
-
-<p align="justify">
-President Bush's 2007 State of the Union address mentioned that new technologies would be needed to diversify America's energy supply. The context around this section of his speech was related to high gas prices and America's reliance on foreign oil from the Middle East. 
-He also talked about diversify America's energy supply in his 2008 speech.  President Bush briefly touched on climate change in both speeches, but again the references were linked to diversify America's energy supply for national security reasons and not the health of the world.
-</p>
+Global environmental issues have been a major topic for years. Currently, one of the main environmental buzzwords is climate change. Over the last 17 State of the Union addresses in the corpus this phrase was only mentioned 17 times and President Obama mentioned 15 of these. Some of the other environmental keywords measured include clean water, energy efficient, fossil fuels, hybrid vehicles, ocean temperatures and wind energy. </p>
 
 <p align="justify">
 President Obama spoke about climate change in all of his State of the Union addresses.  His 2013 speech mentioned environmental issues 18 times, which was the highest number of references spanning 3 Presidential administrations and 17 State of the Union addresses.  President Obama's 2013 address came on the heels of the 2012 United Nations Climate Change Conference. His 2010 speech contained the second highest mention and it also came on the 2010 United Nations Climate Change Conference. Additional research would be required to determine if these Climate Change Conferences influenced President Obama's addresses for the years specified. He mentioned environmental issues 80 times across 7 speeches.
+</p>
+
+<p align="justify">
+President Bush's 2007 State of the Union address mentioned that new technologies would be needed to diversify America's energy supply. The context around this section of his speech was related to high gas prices and America's reliance on foreign oil from the Middle East. 
+He also talked about diversify America's energy supply in his 2008 speech.  President Bush briefly touched on climate change in both speeches, but again these references were linked to diversifying America's energy supply for national security reasons and not the health of the world.
 </p>
 
 <p align="center"><br>
@@ -103,7 +110,7 @@ President Obama spoke about climate change in all of his State of the Union addr
 </p>
 
 <p align="justify">
-Another topic was political parties. The frequency of the keywords, bipartisan, democrat(s), democratic party, republican(s), and republican party were measured for this topic.  President Obama a democrat mentioned the republican party more frequently in his speeches than the republican Presidents Bush and Trump.  President Obama also used all the keywords more frequently in his speeches.  President Bush used the keywords the least in his speeches.
+Another topic analyzed was political parties. The frequency of the keywords, bipartisan, democrat(s), democratic party, republican(s), and republican party were measured for this topic.  President Obama a democrat mentioned the republican party more frequently in his speeches than his republican counterparts Presidents Bush and Trump.  President Obama also used all these political keywords more frequently in his speeches. President Bush used these keywords the least in his speeches.
 </p>
 
 <p align="center"><br>
@@ -111,7 +118,7 @@ Another topic was political parties. The frequency of the keywords, bipartisan, 
 </p>
 
 <p align="justify">
-Religion references were also analyzed in the State of Union Addresses corpuses used in this experiment. The keywords measured were:
+Religion references were also analyzed in the State of Union addresses used in this experiment. The keywords measured included
 bible, christian, church, god, holiness, holy land, islam, jerusalem, and judaism. President Bush and President Trump, both republicans used religious references more frequently than President Obama, a democratic president. 
 </p>
   
@@ -120,7 +127,7 @@ bible, christian, church, god, holiness, holy land, islam, jerusalem, and judais
 </p>
 
 <p align="justify">
-This experiment also looked at the usage of superlatives by a President. A superlative is an exaggerated or hyperbolical expression.  These words can be used to describe an object at the highest (e.g., wealthiest) or lowest limit (e.g., poorest).  Some of the superlative used by Presidents included most beautiful, bravest, hottest, safest, smartest and toughest.  President Trump used the highest number of superlatives in his 2019 address.  President Bush used the least number of superlatives in his speeches.  
+This experiment also looked at the usage of superlatives by a President. A superlative is an exaggerated or hyperbolical expression.  These words can be used to describe an object at the highest (e.g., wealthiest) or lowest limit (e.g., poorest).  Some of the superlative used by Presidents included most beautiful, bravest, hottest, safest, smartest and toughest.  President Trump used the highest number of superlatives in his 2019 address. President Bush used the least number of superlatives in his speeches.  
 </p>
 
 <p align="center"><br>
