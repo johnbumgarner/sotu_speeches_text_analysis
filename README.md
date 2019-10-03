@@ -110,12 +110,14 @@ He also talked about diversify America's energy supply in his 2008 speech.  Pres
 </p>
 
 <p align="justify">
-Another topic analyzed was political parties. The frequency of the keywords, bipartisan, democrat(s), democratic party, republican(s), and republican party were measured for this topic.  President Obama a democrat mentioned the republican party more frequently in his speeches than his republican counterparts Presidents Bush and Trump.  President Obama also used all these political keywords more frequently in his speeches. President Bush used these keywords the least in his speeches.
+PLACE HOLDER FOR TEXT
 </p>
 
 <p align="center"><br>
-<img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_political_parties_metrics.png">
+<img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_border_security_immigration_metrics.png">
 </p>
+
+
 
 <p align="justify">
 Religion references were also analyzed in the State of Union addresses used in this experiment. The keywords measured included
@@ -124,6 +126,14 @@ bible, christian, church, god, holiness, holy land, islam, jerusalem, and judais
   
 <p align="center"><br>
 <img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_religious_metrics.png">
+</p>
+
+<p align="justify">
+Another topic analyzed was political parties. The frequency of the keywords, bipartisan, democrat(s), democratic party, republican(s), and republican party were measured for this topic.  President Obama a democrat mentioned the republican party more frequently in his speeches than his republican counterparts Presidents Bush and Trump.  President Obama also used all these political keywords more frequently in his speeches. President Bush used these keywords the least in his speeches.
+</p>
+
+<p align="center"><br>
+<img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_political_parties_metrics.png">
 </p>
 
 <p align="justify">
