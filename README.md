@@ -34,26 +34,36 @@ In short, textual analysis consists of describing the characteristics of specifi
 ## Textual analysis techniques
 
 <b>Word Frequency</b>
-<p style="text-decoration: underline;">This text will be underlined.</p>
 <p align="justify">
 Word frequency is the technique used in textual analysis to measure the frequency of a specific word or word grouping within unstructured data. Measuring the number of word occurrences in a corpus allows a researcher to garner interesting insights about the text.
 </p>
 
 <b>Collocation</b>
 <p align="justify">
-  
+In corpus linguistics, a collocation is a series of words or terms that frequently co-occur within a corpus. Collocations are usually bigrams (a pair of words) and trigrams (a combination of three words). In textual analysis, identifying collocations is useful to understand the semantic structure of a corpus. And counting bigrams and trigrams as one word can improve the accuracy of the textual analysis.
 </p>
 
 <b>Concordance</b>
 <p align="justify">
+Human language is ambiguous: depending on the context, the same word can mean different things.  A concordance is one of the oldest of text mining tools dating back to at least the 13th century when they were used to analyze and “read” religious texts. In modern-day terms a concordance is used to identify instances in which a word or a series of words appear with a corpus and to understand these words exact meaning. Many search engines use concordance to return the query as well as the words surrounding the query. 
 </p>
 
 <b>Text Classification</b>
 <p align="justify">
+Text classification is the process of assigning tags or categories to unstructured data based on its content.  Text classification is  one of the most essential tasks of natural language processing, because it allows a cost-efficient way to organizing the textual data according to either topic, urgency, sentiment or intent. To accomplsh this text classifiers can use techniques, such as topic analysis, sentiment analysis, language detection or intent detection.
+
+Topic Analysis consists of assigning predefined tags to an extensive collection of text data, based on its topics or themes.
+
+Sentiment Analysis, also known as ‘opinion mining’, is the automated process of understanding the attributes of an opinion, that is, the emotions that underlie a text (e.g. positive, negative, and neutral).
+
+Language detection allows a researcher to classify a corpus based on its language.
+
+Intent detection is used to recognize the intent of a given text.
 </p>
 
 <b>Text Extraction</b>
 <p align="justify">
+ 
 </p>
 
 
