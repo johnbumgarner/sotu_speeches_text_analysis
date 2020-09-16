@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/johnbumgarner/synonyms_nlp/blob/master/graphic/discovery_picture.png" />
+  <img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/graphic/text-analysis.png" />
 </p>
 
 # Overview
