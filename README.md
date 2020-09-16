@@ -33,7 +33,8 @@ In short, textual analysis consists of describing the characteristics of specifi
 
 ## Textual analysis techniques
 
-<u><b>Word Frequency</b></u>
+<b>Word Frequency</b>
+<p style="text-decoration: underline;">This text will be underlined.</p>
 <p align="justify">
 Word frequency is the technique used in textual analysis to measure the frequency of a specific word or word grouping within unstructured data. Measuring the number of word occurrences in a corpus allows a researcher to garner interesting insights about the text.
 </p>
