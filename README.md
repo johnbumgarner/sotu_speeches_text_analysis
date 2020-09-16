@@ -23,7 +23,7 @@ These speeches (corpuses) were obtained from 3 primary sources. The White House 
 
 <p align="justify">
 
-Textual analysis is a broad term for various research methodologies used to qualitatively describe, interpret and understand text data.  These methodologies are mainly used in academic research to analyze content related to media and communication studies, popular culture, sociology, and philosophy. Textual analysis allows these researchers to quickly obtain relevant insights from unstructured data. All types of information can be gleaned from textual data, especially from social media posts or news articles. Some of this information includes the overall concept of the subtext, symbolism within the text, assumptions being made and potential relative value to a subject (e.g. data science). In some cases it is possible to deduce the relative historical and cultural context of a body of text using analysis techniques coupled with knowledge from different disciplines, like linguistics and semiotics.
+Textual analysis is a broad term for various research methodologies used to qualitatively describe, interpret and understand text data. These methodologies are mainly used in academic research to analyze content related to media and communication studies, popular culture, sociology, and philosophy. Textual analysis allows these researchers to quickly obtain relevant insights from unstructured data. All types of information can be gleaned from textual data, especially from social media posts or news articles. Some of this information includes the overall concept of the subtext, symbolism within the text, assumptions being made and potential relative value to a subject (e.g. data science). In some cases it is possible to deduce the relative historical and cultural context of a body of text using analysis techniques coupled with knowledge from different disciplines, like linguistics and semiotics.
 
 A subset of textual analysis is content analysis. Content analysis is the study of documents and communication artifacts. These artifacts might be texts of various formats, pictures, audio or video. Social scientists use content analysis to examine patterns in communication in a replicable and systematic manner.
 
@@ -32,11 +32,13 @@ In short, textual analysis consists of describing the characteristics of specifi
 
 
 ## Textual analysis techniques
-<p align="justify">
-  
+
 <b>Word Frequency</b>
 
-test
+<p align="justify">
+Word frequency is the technique used in textual analysis to measure the frequency of a specific word or word grouping within unstructured data. Measuring the number of word occurrences allows a researcher to garner interesting insights about the text.
+</p>
+
 
 <b>Collocation</b>
 
