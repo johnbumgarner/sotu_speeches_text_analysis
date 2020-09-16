@@ -1,3 +1,9 @@
+
+
+<p align="center">
+  <img src="https://github.com/johnbumgarner/synonyms_nlp/blob/master/graphic/discovery_picture.png" />
+</p>
+
 # Overview
 
 <p align="justify">
