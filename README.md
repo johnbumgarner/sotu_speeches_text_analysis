@@ -94,17 +94,17 @@ Additional analysis is required to determine what topics garnered laughter and i
 <img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_laughter_metrics.png">
 </p>
 
-### Topic Analysis:
+## Topic Analysis:
 
 <p align="justify">
   
-  
+
   
 This experiment also used the Python modules matplotlib and pandas. The objective of this experiment was to calculate the number of times a specific topic was mentioned in an individual speech.  The topics included economy, environment, healthcare, immigration, taxes, terrorism and weapons of mass destruction. Most topics had associated keywords, which were manually extracted from the speeches. This extraction method identified bigrams and trigrams that would have been potentially missed using some of the natural language processing (NLP) modules that commonly remove stopwords, such as 'of' or 'on.' 
   
 Below is an example of a topic and its associated keywords:
 
-- Topic: terrorism
+### Topic: terrorism
 - Keywords: al qaeda, bioterrorism, extremism, extremists, fighting terror, hamas, hezbollah, isis, islamic jihad, jaish-i-mohammed, terrorism, terrorist, terrorists, terror camps, terror states, war against terror, war on terror, weapons of terror
 </p>
 
@@ -160,9 +160,7 @@ He also talked about diversify America's energy supply in his 2008 speech.  Pres
 <img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_environmental_metrics.png">
 </p>
 
-<p align="justify">
-PLACE HOLDER FOR TEXT
-</p>
+=
 
 <p align="center"><br>
 <img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_immigration_metrics.png">
