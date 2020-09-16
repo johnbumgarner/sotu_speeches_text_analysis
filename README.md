@@ -7,16 +7,23 @@
 # Overview
 
 <p align="justify">
-This repository contains Python code used for various text analysis experiments. The corpuses used for these experiments were the State of the Union addresses given in the years shown below: 
+
+The primary purpose of this repository is to analyze the textual data contained within the State of the Union addresses given in the years shown below: 
   
 - Donald Trump - 2017 to 2019
 - Barack Obama - 2010 to 2016
 - George W. Bush - 2002 to 2008
+
+These speeches (corpuses) were obtained from 3 primary sources. The White House website and President Bush's and President Obama's offical websites. None of these corpuses were cross-referenced with their corresponding videos. The latter would allow a researcher to more precisely measure audience reaction to a particular section of a Presidential speech.  
+
+<b>Special note: <b> The only text cleaning performed within the corpuses was associated with removing specific meta data, such as "White House photographer <name> took this photo."
 </p>
 
+## Concept of textual analysis
 <p align="justify">
-These corpuses were obtained from 3 primary sources. The White House website and President Bush's and President Obama's offical websites. None of these corpuses were cross-referenced with their corresponding videos.  Additionally, the only text cleaning performed was related to removing specific meta data, such as "White House photographer <name> took this photo."
+  
 </p>
+
 
 ### Experiment 1:
 
