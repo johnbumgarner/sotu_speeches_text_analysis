@@ -16,11 +16,13 @@ The primary purpose of this repository is to analyze the textual data contained 
 
 These speeches (corpuses) were obtained from 3 primary sources. The White House website and President Bush's and President Obama's offical websites. None of these corpuses were cross-referenced with their corresponding videos. The latter would allow a researcher to more precisely measure audience reaction to a particular section of a Presidential speech.  
 
-<b>Special note: <b> The only text cleaning performed within the corpuses was associated with removing specific meta data, such as "White House photographer <name> took this photo."
+<b>Special note: <b> <i>The only text cleaning performed within the corpuses was associated with removing specific meta data, such as "White House photographer <name> took this photo."<i>
 </p>
 
 ## Concept of textual analysis
 <p align="justify">
+  
+  
   
 </p>
 
