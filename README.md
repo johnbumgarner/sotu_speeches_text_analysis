@@ -16,7 +16,7 @@ The primary purpose of this repository is to analyze the textual data contained 
 
 These speeches (corpuses) were obtained from 3 primary sources. The White House website and President Bush's and President Obama's offical websites. None of these corpuses were cross-referenced with their corresponding videos. The latter would allow a researcher to more precisely measure audience reaction to a particular section of a Presidential speech.  
 
-<b>Special note:</b> <i>The only text cleaning performed within the corpuses was associated with removing specific meta data, such as "White House photographer <name> took this photo."<i>
+<b>Special note:</b> <i>The only text cleaning performed within the corpuses was associated with removing specific meta data, such as "White House photographer <name> took this photo."</i>
 </p>
 
 ## Concept of textual analysis
@@ -33,13 +33,19 @@ In short, textual analysis consists of describing the characteristics of specifi
 
 ## Textual analysis techniques
 <p align="justify">
+  
+<b>Word Frequency</b>
 
+<b>Collocation</b>
+
+<b>Concordance</b>
+
+<b>Text Classification</b>
+
+<b>Text Extraction</b>
 </p>
 
-
-
-
-
+# State of the Union addresses analysis
 
 ### Experiment 1:
 
