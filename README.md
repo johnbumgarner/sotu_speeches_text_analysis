@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/graphic/text-analysis.png" width="500" height="600"/>
+  <img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/graphic/text-analysis.png" width="400" height="400"/>
 </p>
 
 # Overview
