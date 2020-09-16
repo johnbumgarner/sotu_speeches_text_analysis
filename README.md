@@ -44,34 +44,32 @@ In corpus linguistics, a collocation is a series of words or terms that frequent
 </p>
 
 <b>Concordance</b>
+
 <p align="justify">
 Human language is ambiguous: depending on the context, the same word can mean different things.  A concordance is one of the oldest of text mining tools dating back to at least the 13th century when they were used to analyze and “read” religious texts. In modern-day terms a concordance is used to identify instances in which a word or a series of words appear with a corpus and to understand these words exact meaning. Many search engines use concordance to return the query as well as the words surrounding the query. 
 </p>
 
 <b>Text Classification</b>
+
 <p align="justify">
-Text classification is the process of assigning tags or categories to unstructured data based on its content.  Text classification is  one of the most essential tasks of natural language processing, because it allows a cost-efficient way to organizing the textual data according to either topic, urgency, sentiment or intent. To accomplsh this text classifiers can use techniques, such as topic analysis, sentiment analysis, language detection or intent detection.
-
-Topic Analysis consists of assigning predefined tags to an extensive collection of text data, based on its topics or themes.
-
-Sentiment Analysis, also known as ‘opinion mining’, is the automated process of understanding the attributes of an opinion, that is, the emotions that underlie a text (e.g. positive, negative, and neutral).
-
-Language detection allows a researcher to classify a corpus based on its language.
-
-Intent detection is used to recognize the intent of a given text.
+Text classification is the process of assigning tags or categories to unstructured data based on its content.  Text classification is  one of the most essential tasks of natural language processing, because it allows a cost-efficient way to organizing the textual data according to either topic, urgency, sentiment or intent. To accomplsh this text classifiers can use techniques, such as topic analysis, sentiment analysis, language detection or intent detection. 
+  
+Topic Analysis consists of assigning predefined tags to an extensive collection of text data, based on its topics or themes. Sentiment Analysis, also known as ‘opinion mining’, is the automated process of understanding the attributes of an opinion, that is, the emotions that underlie a text (e.g. positive, negative, and neutral). Language detection allows a researcher to classify a corpus based on its language. Intent detection is used to recognize the intent of a given text.
 </p>
 
 <b>Text Extraction</b>
 <p align="justify">
- 
+Text extraction is a textual analysis technique which consists of extracting specific terms or expressions from a collection of text data. The most useful text extraction tasks include; named-entity recognition, keyword extraction and feature extraction.  
 </p>
 
 
 # State of the Union addresses analysis
 
-### Experiment 1:
+## Measuring audience ovation or laugher:
 
 <p align="justify">
+  
+  
 This experiment used the Python modules matplotlib and pandas. The objective of this experiment was to calculate the number of times the audience either clapped or laughed during a particular State of the Union address. The corpus used contained meta data, which indicates what parts of the speech gathered applause or laugher. The metrics generated are only as reliable as the data being processed, because the applause and laugher keywords were manually added to the speech text by an unknown entity. This experiment did not validate these keywords, which could have been accomplished by watching the videos associated with each of the State of Union addresses within the corpus.
 </p>
 
