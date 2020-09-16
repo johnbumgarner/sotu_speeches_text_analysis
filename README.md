@@ -57,7 +57,7 @@ Text classification is the process of assigning tags or categories to unstructur
 Topic Analysis consists of assigning predefined tags to an extensive collection of text data, based on its topics or themes. Sentiment Analysis, also known as ‘opinion mining’, is the automated process of understanding the attributes of an opinion, that is, the emotions that underlie a text (e.g. positive, negative, and neutral). Language detection allows a researcher to classify a corpus based on its language. Intent detection is used to recognize the intent of a given text.
 </p>
 
-### Text Extraction
+#### Text Extraction
 <p align="justify">
 Text extraction is a textual analysis technique which consists of extracting specific terms or expressions from a collection of text data. The most useful text extraction tasks include; named-entity recognition, keyword extraction and feature extraction.  
 </p>
@@ -68,20 +68,13 @@ Text extraction is a textual analysis technique which consists of extracting spe
 ## Measuring audience ovation or laugher:
 
 <p align="justify">
-  
-  
-This experiment used the Python modules matplotlib and pandas. The objective of this experiment was to calculate the number of times the audience either clapped or laughed during a particular State of the Union address. The corpus used contained meta data, which indicates what parts of the speech gathered applause or laugher. The metrics generated are only as reliable as the data being processed, because the applause and laugher keywords were manually added to the speech text by an unknown entity. This experiment did not validate these keywords, which could have been accomplished by watching the videos associated with each of the State of Union addresses within the corpus.
-</p>
 
-<p align="justify">
-Additionally, the keyword-based metrics cannot determine if the audience applauded for 10 seconds or 60 seconds. For example, in President Trump's 2017 State of the Union address, the widow of Navy special operator Senior Chief William Ryan Owens, who was slain in a January 2017 raid in Yemen received a bipartisan standing ovation that lasted for one minute and 36 seconds.
-</p>
+The State of the Union corpus contains meta data that indicates what sections of an address garnered some form of audience response. This data allows for the basic measurement of both ovation expressions (applause) and auditory cues (laugher) during a given speech.  The meta data within these corpuses was added manually by the sources, so any metrics generated are not completely reliability, because there might be underlying biases. A more thorough analysis would require reviewing the corresponding videos for each address and linking these audience responses to the specific speech.  
 
-<p align="justify">
-The average audiance applause metric across all the State of the Union addresses in the corpus was 55 per speech. The highest number of applauses for the speeches in the corpus were associated with President Trump's State of the Union address for 2018. This speech garnered 117 applauses. President Obama's 2010 State of the Union address received 116 applauses.
-</p>
+Additionally, these meta-based metrics cannot determine if the audience applauded for 10 seconds or 60 seconds. For example, in President Trump's 2017 State of the Union address, the widow of Navy special operator Senior Chief William Ryan Owens, who was slain in a January 2017 raid in Yemen received a bipartisan standing ovation that lasted for one minute and 36 seconds.
 
-<p align="justify">
+The meta data showed that the average audiance applause metric was 55 within all the State of the Union addresses in the corpuses analyzed.  The highest number of applauses for a specific speech was 117 and this metric was associated with President Trump's 2018 State of the Union address. President Obama's 2010 State of the Union address received 116 applauses, which was the second highest number of ovation expressions.
+
 Additional analysis is required to determine what topics garnered applause from the audience and if the applause was bipartisan or partisan in nature. 
 </p>
 
@@ -90,10 +83,10 @@ Additional analysis is required to determine what topics garnered applause from 
 </p>
 
 <p align="justify">
-The laughter metrics were also generated from the same unverified corpus. The average audiance laughter metric across all the State of the Union addresses in the corpus was 2.8 per speech. The highest number of laughs for the speeches in the corpus were associated with President Obama's State of the Union address for 2010. This speech garnered 11 laughs. The laughter metrics indicate that President Obama's speeches received 37 laughs accross his 7 speeches.  President Bush only received 8 laughs for the same number of speeches. And President Trump received 10 laughs in only 3 speeches.
-</p>
 
-<p align="justify">
+The auditory cues (laugher) from the audience were also measured.  The meta data showed that the average audiance laugher metric was 2.8 per speech accross all the the State of the Union addresses analyzed. The highest number of audience laughs were associated with President Obama's 2010 State of the Union address, which 
+garnered 11 laughs. Accross President Obama's 7 speeches, he received 37 laughs, which was the highest combined number of laughs. Whereas President Bush only received 8 laughs for the same number of speeches, but his speeches were given in the years following the 9/11 terrorist attacks on New York City and Washington, D.C. President Trump received 10 laughs in his 3 speeches within the corpus.
+
 Additional analysis is required to determine what topics garnered laughter and if this laughter was bipartisan or partisan in nature. 
 </p>
 
@@ -101,9 +94,12 @@ Additional analysis is required to determine what topics garnered laughter and i
 <img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_laughter_metrics.png">
 </p>
 
-### Experiment 2:
+### Topic Analysis:
 
 <p align="justify">
+  
+  
+  
 This experiment also used the Python modules matplotlib and pandas. The objective of this experiment was to calculate the number of times a specific topic was mentioned in an individual speech.  The topics included economy, environment, healthcare, immigration, taxes, terrorism and weapons of mass destruction. Most topics had associated keywords, which were manually extracted from the speeches. This extraction method identified bigrams and trigrams that would have been potentially missed using some of the natural language processing (NLP) modules that commonly remove stopwords, such as 'of' or 'on.' 
   
 Below is an example of a topic and its associated keywords:
