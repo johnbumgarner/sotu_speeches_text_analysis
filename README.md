@@ -104,8 +104,8 @@ This experiment also used the Python modules matplotlib and pandas. The objectiv
   
 Below is an example of a topic and its associated keywords:
 
-#### Topic: terrorism
-#### Keywords: al qaeda, bioterrorism, extremism, extremists, fighting terror, hamas, hezbollah, isis, islamic jihad, jaish-i-mohammed, terrorism, terrorist, terrorists, terror camps, terror states, war against terror, war on terror, weapons of terror
+<b>Topic:</b> <i>terrorism</i>
+<bb>Keywords:</b> <i>al qaeda, bioterrorism, extremism, extremists, fighting terror, hamas, hezbollah, isis, islamic jihad, jaish-i-mohammed, terrorism, terrorist, terrorists, terror camps, terror states, war against terror, war on terror, weapons of terror</i>
 </p>
 
 <p align="justify">
