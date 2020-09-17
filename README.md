@@ -98,27 +98,27 @@ Additional analysis is required to determine what topics garnered laughter and i
 
 <p align="justify">
   
+Topic analysis was performed on the speeches with the corpus. The topics measured included economy, environment, healthcare, immigration, taxes, terrorism and weapons of mass destruction. These topics were extracted using both automated text extraction and manually.  These extraction methods identified bigrams and trigrams.  
 
-  
-This experiment also used the Python modules matplotlib and pandas. The objective of this experiment was to calculate the number of times a specific topic was mentioned in an individual speech.  The topics included economy, environment, healthcare, immigration, taxes, terrorism and weapons of mass destruction. Most topics had associated keywords, which were manually extracted from the speeches. This extraction method identified bigrams and trigrams that would have been potentially missed using some of the natural language processing (NLP) modules that commonly remove stopwords, such as 'of' or 'on.' 
-  
-Below is an example of a topic and its associated keywords:
+Below is an example of a topic and its associated keywords(unigrams, bigrams and trigrams):
 
 <b>Topic:</b> <i>terrorism</i>
-<bb>Keywords:</b> <i>al qaeda, bioterrorism, extremism, extremists, fighting terror, hamas, hezbollah, isis, islamic jihad, jaish-i-mohammed, terrorism, terrorist, terrorists, terror camps, terror states, war against terror, war on terror, weapons of terror</i>
-</p>
 
-<p align="justify">
-Since September 11, 2001, terrorism has been mentioned in every State of the Union address across 3 different administrations. Of course President Bush spoke about terrorism the greatest number of times in his speeches, because he was the president immediately following al-Qaeda's attacks on America.  
-</p> 
+<b>Keywords:</b> <i>al qaeda, bioterrorism, extremism, extremists, fighting terror, hamas, hezbollah, isis, islamic jihad, jaish-i-mohammed, terrorism, terrorist, terrorists, terror camps, terror states, war against terror, war on terror, weapons of terror</i>
+
+Since September 11, 2001, terrorism has been mentioned in every State of the Union address across 3 different Presidential administrations. The analysis revealed
+that President Bush spoke about terrorism the greatest number of times in his speeches. In terms of a historical context he was the President immediately following the horrific al-Qaeda attacks on America.  
 
 <p align="center"><br>
 <img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_terrorism_metrics.png">
 </p>
 
-<p align="justify">
-Weapons of Mass destruction (WMD) were mentioned in 16 of the 17 State of the Union addresses analyzed. In President Bush's 2003 speech he referenced WMD 29 times and terrorism 28 times. It is worth noting that this speech was used by President Bush to declare his intentions to launch offensive military operations on Iraq for the express purpose of locating the WMDs allegedly being hidden by Saddam Hussein.  Bush's 2003 State of the Union was on Jan 28, 2003 and the invasion of Iraq commenced on March 19, 2003.
-</p> 
+The topic <i>Weapons of Mass destruction (WMD)</i> was mentioned in 16 of the 17 State of the Union addresses analyzed. President Bush's 2003 speech 
+
+
+
+he referenced WMD 29 times and terrorism 28 times. It is worth noting that this speech was used by President Bush to declare his intentions to launch offensive military operations on Iraq for the express purpose of locating the WMDs allegedly being hidden by Saddam Hussein.  Bush's 2003 State of the Union was on Jan 28, 2003 and the invasion of Iraq commenced on March 19, 2003.
+
 
 <p align="center"><br>
 <img src="https://github.com/johnbumgarner/sotu_nlp_experiments/blob/master/sotu_charts/sotu_wmd_metrics.png">
