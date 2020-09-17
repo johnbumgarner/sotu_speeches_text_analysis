@@ -136,11 +136,11 @@ President Obama mentioned healthcare issues 70 times in his 7 speeches. He menti
 </p>
 
 <p align="justify">
-Global environmental issues have also been a major talking point in State of the Union addresses within the corpus. Some of the environmental keywords measured included <i>clean water, climate change, energy efficient, fossil fuels, hybrid vehicles, ocean temperatures and wind energy.</i>. The environmental buzzword that occurred the most was climate change. This keyword was only mentioned 17 times accross 3 Presidential administrations with President Obama mentioning this phrase 15 times.
+Global environmental issues have also been a major talking point in State of the Union addresses within the corpus. Some of the environmental keywords measured included <i>clean water, climate change, energy efficient, fossil fuels, hybrid vehicles, ocean temperatures and wind energy</i>. The environmental buzzword that occurred the most was climate change. This keyword was only mentioned 17 times accross 3 Presidential administrations with President Obama mentioning this phrase 15 times.
 
 All of President Obama's State of the Union addresses mentioned the bigram <i>climate change</i>. His 2013 speech mentioned environmental issues 18 times, which was the highest number of references spanning 3 Presidential administrations and 17 State of the Union addresses.  President Obama's 2013 address came on the heels of the 2012 United Nations Climate Change Conference. His 2010 speech contained the second highest number of environmental keywords. This speech came weeks after the 2010 United Nations Climate Change Conference. Additional research would be required to determine if these Climate Change Conferences influenced President Obama's addresses in 2010 and 2013. President Obama mentioned environmental issues 80 times across 7 speeches.
 
-President Bush's 2007 State of the Union address mentioned that new technologies would be needed to diversify America's energy supply. The context around this section of his speech was related to high gas prices and America's reliance on foreign oil from the Middle East. He also talked about diversify America's energy supply in his 2008 speech.  President Bush briefly touched on climate change in both speeches, but context of these references were linked to diversifying America's energy supply for national security reasons and not for the health of the world.
+President Bush's 2007 State of the Union address mentioned that new technologies would be needed to diversify America's energy supply. The context around this section of his speech was related to high gas prices and America's reliance on foreign oil from the Middle East. He also talked about diversify America's energy supply in his 2008 speech.  President Bush briefly touched on climate change in both these speeches, but the context of these references were not related to the  environmental health of the world, but to diversifying America's energy supply for national security reasons.
 </p>
 
 <p align="center"><br>
@@ -148,7 +148,7 @@ President Bush's 2007 State of the Union address mentioned that new technologies
 </p>
 
 <p align="justify">
-Religion references were also analyzed in the State of the Union addresses with the corpus. The keywords measured included <i>bible, christian, church, god, holiness, holy land, islam, jerusalem, and judaism</>. The Republican Presidents Bush and Trump used religious references more frequently than President Obama, a Democratic president. 
+Religion references were also analyzed in the State of the Union addresses with the corpus. The keywords measured included <i>bible, christian, church, god, holiness, holy land, islam, jerusalem, and judaism</i>. The Republican Presidents Bush and Trump used religious references more frequently than President Obama, a Democratic president. 
 </p>
   
 <p align="center"><br>
