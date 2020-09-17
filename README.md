@@ -164,7 +164,7 @@ Another topic analyzed within the corpuses was political parties. The keywords m
 </p>
 
 <p align="justify">
-The frequency of superlatives usage by a President was also measured. A superlative is an exaggerated or hyperbolical expression.  These words can be used to describe an object at the highest (e.g., wealthiest) or lowest limit (e.g., poorest).  Some of the superlative used by Presidents included <i>most beautiful, bravest, hottest, safest, smartest and toughest</i>. President Trump used superlatives the most and President Bush them the least. President Trump's 2019 address used superlatives nearly 20 times. 
+The frequency of superlatives usage by a President was also measured. A superlative is an exaggerated or hyperbolical expression.  These words can be used to describe an object at the highest (e.g., wealthiest) or lowest limit (e.g., poorest).  Some of the superlative used by Presidents included <i>most beautiful, bravest, hottest, safest, smartest and toughest</i>. President Trump used superlatives the most in his speeches and President Bush used them the least. President Trump's 2019 address used superlatives nearly 20 times. 
 </p>
 
 <p align="center"><br>
