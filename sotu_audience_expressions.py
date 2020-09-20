@@ -15,7 +15,7 @@
 # Date Completed: September 30, 2019
 # Author: John Bumgarner
 #
-# Date Revised: September 17, 2019
+# Date Revised: September 17, 2020
 # Revised by: John Bumgarner
 #
 # This Python script is designed to measure the frequency of ovation expressions
